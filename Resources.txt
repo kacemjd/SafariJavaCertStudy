@@ -50,8 +50,9 @@ Java tutorial (Java 8 only, sadly, but excellent for helping understand
    core material up to and including lambdas and streams.)
  - https://docs.oracle.com/javase/tutorial/
  
- My YouTube channel (new, but building a library of topics, so far
- entirely Java): https://www.youtube.com/@DancingCloudServices
+My YouTube channel (new, but building a library of topics, so far
+ entirely Java):
+ - https://www.youtube.com/@DancingCloudServices
  
 Contact me directly at simon@dancingcloudservices.com if your 
 organization might be interested in customized training or course
